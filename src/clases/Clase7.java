@@ -14,7 +14,7 @@ public class Clase7 {
 		nota3 = teclado.nextFloat();
 		suma = nota1+nota2+nota3;
 		System.out.println("\nLa suma es: "+suma);
-		
+		//hola
 
 	}
 
